@@ -1,3 +1,8 @@
 .one {
     background-color: aqua;
 }
+.two {
+    background-color: tomato;
+    padding: 10px;
+    margin: 20px;
+}
